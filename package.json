@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node webapi.js"
+    "start": "node webapi.js"
   },
   "author": "Akegarasu",
   "license": "GPL-3.0"
